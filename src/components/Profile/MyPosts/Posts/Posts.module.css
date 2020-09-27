@@ -1,0 +1,25 @@
+.postIcon{
+    width: 2vw;
+    height: 2vw;
+    border-radius: 50%;
+    background-color: gold;
+    background-image: url(https://lh3.googleusercontent.com/a-/AOh14GgVPFf38HfIGrg6UzrVgrRNa0P4gHijFHFxpqAltQ=s88);
+    background-size: cover;
+  }
+    .postItem{
+      width: 75vw;
+      height: max-content;
+      border: 1px solid rgb(255, 72, 0);
+      margin: 1%;
+      display: flex;
+      align-items: center;
+      background-color: ghostwhite;
+      border-radius: 0.5vw;
+      padding: 1% 1%;
+    }
+  
+    .postText{
+      margin-left: 0.5%;
+      width: 80%;
+      
+    }

@@ -1,0 +1,8 @@
+  .postsArea{
+    width: 100%;
+    height:74%;
+    border: 1px solid palevioletred;
+    overflow-y: scroll;
+    padding: 1%;
+  }
+

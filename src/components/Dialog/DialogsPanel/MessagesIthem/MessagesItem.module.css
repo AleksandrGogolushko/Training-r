@@ -1,0 +1,13 @@
+
+  .messagesItem{
+      border: 1px solid green ;
+      display: flex;
+      align-content: center;
+      flex-direction: column;
+      padding: 2%;
+  }
+
+  .active{
+      background-color: gold;
+  }
+

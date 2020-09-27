@@ -1,0 +1,86 @@
+.userWrappers {
+  border: 1px solid black;
+  height: 100%;
+  padding: 2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userSection {
+  border: 1px solid royalblue;
+  margin: 1%;
+  display: flex;
+  width: 70%;
+  height: 18%;
+  min-height: 150px;
+}
+
+.discriptionUser {
+  border: 1px solid palevioletred;
+  display: flex;
+  width: 80%;
+  border-radius: 1vw;
+}
+
+.avatarFollowSection {
+  border: 1px solid red;
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.avatar{
+    width: 43%;
+    height: 60%;
+    border-radius: 50%;
+    margin: 5%;
+    /* background-color: goldenrod; */
+}
+.avatar img{
+    width: 100%;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+.add{
+    margin: 3%;
+    padding: 2%;
+}
+.nameStatus {
+  border: 1px solid goldenrod;
+  width: 70%;
+  padding: 1%;
+}
+
+.location {
+  border: 1px solid green;
+  width: 30%;
+  padding: 1%;
+}
+
+.more{
+    margin-top: 2%;
+    width: 20%;
+    height: 10%;
+}
+
+.selected{
+ font-weight: bold;
+
+}
+
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    width: 10%;
+    overflow: hidden;
+    padding: 1%;
+    border: 1px solid black;
+    align-items: center;
+    border-radius: 1vw;
+}
+.navigation p{
+  cursor: pointer;
+}

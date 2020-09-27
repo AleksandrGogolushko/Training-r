@@ -1,0 +1,20 @@
+
+  .postsArea{
+    width: 100%;
+    resize: none;
+    height: 70%;
+    padding: 0.5%;
+  }
+
+  .postPanel{
+    width: 100%;
+    height: 25%;
+  }
+
+  .sendButton{
+    float: right;
+    width:5%;
+    height: 25%;
+    border-radius: 0.3vw;
+  }
+ 

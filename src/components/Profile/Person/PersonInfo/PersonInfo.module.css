@@ -1,0 +1,49 @@
+ 
+  .info{
+    width: 85%;
+    height: 100%;
+    /* border:1px solid green; */
+    position: absolute;
+    left: 10%;
+    top: 0;
+    padding: 0 1%;
+  }
+  
+  .fio{
+    font-weight: bold;
+   
+    font-size: 1.2vw;
+  }
+
+  .personData{
+    list-style: none;
+  }
+  .personData li span{
+    font-weight: normal;
+  }
+  .personData li{
+    margin: 0.2% 0;
+    font-weight: bold;
+  }
+
+  .lookingJob li{
+    margin-left: 3%;
+    font-weight: normal;
+  }
+  .contacts{
+    position: absolute;
+    top: 0;
+    right: 15%;
+    width: max-content;
+  }
+ 
+  .contacts ul{
+    width: 100%;
+    margin-left: 3%;
+  }
+  .contacts ul li {
+    font-weight: bold;
+  }
+  .contacts ul li span {
+       font-weight: normal;
+  }

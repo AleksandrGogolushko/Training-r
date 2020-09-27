@@ -1,0 +1,35 @@
+
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.wrapper{
+  display: grid;
+  grid-template-areas: 
+  "header header "
+  "nav main "
+  "footer footer ";
+  grid-template-rows: 5% 1fr 4% ;
+  grid-template-columns: 15% 1fr ;
+  grid-gap: 0.5vw;
+  height: 100vh;
+  width: 95vw;
+  margin: 0 auto;
+}
+
+header, footer, nav, main {
+  border:1px solid black;
+}
+
+.content{
+  grid-area: main;
+  padding: 0.5%;
+  
+}
+
+
+
+

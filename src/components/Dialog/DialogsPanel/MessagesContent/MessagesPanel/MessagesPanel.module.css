@@ -1,0 +1,28 @@
+
+  .postsArea{
+    width: 100%;
+    resize: none;
+    height: 70%;
+    padding: 0.5%;
+  }
+
+  .sendButton{
+    float: right;
+    width:5%;
+    height: 20%;
+    border-radius: 0.3vw;
+  }
+
+  .messagesPanel{
+    width: 100%;
+    height: 18%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: gainsboro;
+    padding: 1% 2%;
+    border: 1px solid black;
+  }
+
+
+ 

@@ -1,0 +1,13 @@
+.profile_cover{
+    width: 79.5vw;
+    height: 18vh;
+    border: 1px solid red;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .profile_cover img{
+    width: 100%;
+    position: absolute;
+    
+  }

@@ -1,0 +1,12 @@
+  .messagesContent{
+    border: 1px solid crimson ;
+    position: relative;
+  }
+
+  .messagesText{
+      width: 60%;
+      height: 20%;
+      border: 1px solid chocolate ;
+  }
+
+  

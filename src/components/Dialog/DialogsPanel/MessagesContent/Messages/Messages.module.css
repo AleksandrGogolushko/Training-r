@@ -1,0 +1,16 @@
+  .messagesText{
+      width: 60%;
+      height: max-content;
+      border: 1px solid chocolate ;
+      margin-top: 1%;
+      padding: 1%;
+      max-width: 700px;
+  }
+
+  .mainAuthor{
+    float: right;
+   }
+ 
+   .interlocutor{
+     float: left;
+   }
